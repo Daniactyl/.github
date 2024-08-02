@@ -4,7 +4,7 @@
     <h2 align="center"> Staff Statistics</h2>
     <h3 align="center"> Tanmay Statistics</h3>
     <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=TanmayBoy&show_icons=true&bg_color=00000000">
+        [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/TanmayBoy?cardType=github&theme=city-lights&preferLogin=false)](https://git.io/awesome-stats-card)
     </div>
     <div>
         <img src="http://github-readme-streak-stats.herokuapp.com?user=TanmayBoy&theme=tokyonight_duo&hide_border=true&mode=weekly">
