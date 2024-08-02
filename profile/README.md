@@ -9,6 +9,13 @@
     <div>
         <img src="http://github-readme-streak-stats.herokuapp.com?user=TanmayBoy&theme=tokyonight_duo&hide_border=true&mode=weekly">
     </div>
+    <h3 align="center"> DangerSwa Statistics</h3>
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=MUHAMMADARISH1&show_icons=true&bg_color=00000000">
+    </div>
+    <div>
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=MUHAMMADARISH1&theme=tokyonight_duo&hide_border=true&mode=weekly">
+    </div>
 </div>
 
 <!--
