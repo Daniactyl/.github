@@ -1,8 +1,16 @@
 ## Hi there 👋
 
-<div>
-        <img src="https://github-readme-stats.vercel.app/api?username=Daniactyl&show_icons=true&bg_color=00000000">
+<div align="center">
+    <h2 align="center"> Staff Statistics</h2>
+    <h3 align="center"> Tanmay Statistics</h3>
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=TanmayBoy&show_icons=true&bg_color=00000000">
     </div>
+    <div>
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=TanmayBoy&theme=tokyonight_duo&hide_border=true&mode=weekly">
+    </div>
+</div>
+
 <!--
 
 **Here are some ideas to get you started:**
