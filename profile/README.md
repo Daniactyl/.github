@@ -9,9 +9,6 @@
     <div>
         <img src="http://github-readme-streak-stats.herokuapp.com?user=TanmayBoy&theme=tokyonight_duo&hide_border=true&mode=weekly">
     </div>
-    <div>
-    <img src="https://komarev.com/ghpvc/?username=TanmayBoy&color=blue">
-    </div>
     <h3 align="center"> DangerSwa Statistics</h3>
     <div>
         <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=city-lights&preferLogin=false">    <img  alt="MUHAMMADARISH1's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/MUHAMMADARISH1?cardType=github&theme=city-lights&preferLogin=false" />  </a>
