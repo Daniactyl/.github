@@ -11,7 +11,7 @@
     </div>
     <h3 align="center"> DangerSwa Statistics</h3>
     <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=MUHAMMADARISH1&show_icons=true&bg_color=00000000">
+        <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=city-lights&preferLogin=false">    <img  alt="MUHAMMADARISH1's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/MUHAMMADARISH1?cardType=github&theme=city-lights&preferLogin=false" />  </a>
     </div>
     <div>
         <img src="http://github-readme-streak-stats.herokuapp.com?user=MUHAMMADARISH1&theme=tokyonight_duo&hide_border=true&mode=weekly">
